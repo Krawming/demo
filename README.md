@@ -1,2 +1,2 @@
 # demo
-this is some code record
+this is ming learning OpenGL recored.
